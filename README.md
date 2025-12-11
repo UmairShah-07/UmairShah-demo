@@ -1,2 +1,3 @@
 # UmairShah-demo
-This Is My First GitHub Repository
+This Is My First GitHub Repository.
+Author - Umair Shah
