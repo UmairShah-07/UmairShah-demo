@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thaana:wght@100..900&family=Playwrite+NO:wght@100..400&family=Playwrite+US+Trad+Guides&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .font-playwrite {
+    font-family: "Playwrite NO", cursive;
+  }
+}
